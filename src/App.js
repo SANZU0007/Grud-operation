@@ -3,7 +3,7 @@ import "./App.css";
 import Studends from "./Componends/Studends";
 import { data } from "./Data/data";
 import Dashboard from "./Componends/Dashboard";
-import Students from "./Componends/Studends";
+
 import { Route, Routes } from "react-router-dom";
 import Addstudent from "./Componends/Addstudent";
 import Editstudents from "./Componends/Editstudents";
